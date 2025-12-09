@@ -18,7 +18,7 @@ Engineering student at **École Polytechnique** and **HEC Paris (M.I.F. & M.Sc. 
 
 ---
 
-### 📌 Pinned Projects + 
+### 📌 Pinned Projects + Game Development
 
 Please explore my pinned repositories below to see my skills in action.
 
