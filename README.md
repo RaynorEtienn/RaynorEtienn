@@ -24,6 +24,6 @@ Please explore my pinned repositories below to see my skills in action.
 
 * **Stat-Arb-Backtesting-Framework:** Statistical arbitrage signal generation and backtesting pipeline.
 * **Industrial-Camera-Control-Library:** Example of robust, high-performance Python engineering for experiment automation.
-* **Hordes:** Game development of a physchological survival co-operative game inspired from [Hordes](https://myhordes.fr/jx/public/welcome). Tech-Stack: `JS`/`TS`, `Python`, `C`/`C++`, `Godot`, `PostgreSQL`.
+* **Hordes:** Game development of a psychological survival co-operative game inspired from [Hordes](https://myhordes.fr/jx/public/welcome). Tech-Stack: `JS`/`TS`, `Python`, `C`/`C++`, `Godot`, `PostgreSQL`.
 
 *Find me on LinkedIn: [www.linkedin.com/in/raynoretienn/](https://www.linkedin.com/in/raynoretienn/)*
