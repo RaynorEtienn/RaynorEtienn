@@ -1,29 +1,23 @@
-# Romain ETIENNE (Raynor/RaynorEtienn)
+# Romain ETIENNE — Raynor / RaynorEtienn
+**X-HEC (École Polytechnique × HEC Paris) · Data & Finance - Quantitative Researcher**
 
-### Future X-HEC Data & Finance Graduate | Aspiring Quant Trader
+Quant researcher on a systematic equity long/short desk (London). Physics & ML
+background, focused on systematic alpha research and risk.
 
-Engineering student at **École Polytechnique** and **HEC Paris (M.I.F. & M.Sc. DDDF)**, transitioning from Quantum Physics and AI Engineering to quantitative finance.
+## Focus
+- Alternative-data signal research (NLP), performance attribution (Brinson), backtesting
+- Risk modelling (VaR-based sizing), regime detection (HMM), covariance cleaning (RMT)
+- Equity long/short, statistical arbitrage, market microstructure
 
----
+## Stack
+- **Python** (primary) - NumPy, Pandas, PyTorch, Scikit-learn - research & NLP
+- **Rust** - low-latency systems (10k+ LOC multi-client/server QKD engine @ Thales, private)
+- R, MATLAB; C++ (familiar)
 
-### 📈 Quantitative Focus
+## Featured
+- **Financial-Data-Analysis** - applied data-science / financial analysis (the work sample behind my current quant role)
 
-* **Alpha Generation:** Exploring statistical arbitrage and physics-based modeling applied to financial markets (Time Series, Volatility Modeling).
-* **Core Quant Topics:** Strong theoretical foundation in Stochastic Calculus, Optimization, Probability, and Game Theory.
+> Most recent work - current desk research, the Thales Rust systems, and a
+> multiplayer game in development - lives in private or restricted repositories.
 
-### 💻 Technical Stack
-
-* **Low-Latency Engineering:** Proficient in **Rust** and **C++** for building high-performance systems (e.g., implemented a low-latency QKD MVP at Thales).
-* **Data Science/ML:** Expertise in **Python** (`NumPy`, `Pandas`, `PyTorch`, `Scikit-learn`) for signal processing and NLP (e.g., built a startup scoring model 20x faster than manual at Matterwave).
-
----
-
-### 📌 Pinned Projects + Game Development
-
-Please explore my pinned repositories below to see my skills in action.
-
-* **Stat-Arb-Backtesting-Framework:** Statistical arbitrage signal generation and backtesting pipeline.
-* **Industrial-Camera-Control-Library:** Example of robust, high-performance Python engineering for experiment automation.
-* **Hordes:** Game development of a psychological survival co-operative game inspired from [Hordes](https://myhordes.fr/jx/public/welcome). Tech-Stack: `JS`/`TS`, `Python`, `C`/`C++`, `Godot`, `PostgreSQL`.
-
-*Find me on LinkedIn: [www.linkedin.com/in/raynoretienn/](https://www.linkedin.com/in/raynoretienn/)*
+[LinkedIn](https://www.linkedin.com/in/raynoretienn/)
